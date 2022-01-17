@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div.login{
+    margin-top: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20em
+}
+Form.loginForm{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    /* align-items: center; */
+    /* align-content: space-between; */
+    /* max-width: 250px; */
+    gap: 20px;
+    
+}
+
+
+
+div.register{
+    margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20em
+}
+Form.registerForm{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    /* align-items: center; */
+    /* align-content: space-between; */
+    /* max-width: 250px; */
+    gap: 10px;
+    
+}
